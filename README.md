@@ -17,6 +17,7 @@ HiperWaves Coin’in Tanımı
 
 HiperWaves Coin nedir? HiperWaves Coin bir dijital varlıktır (kriptopara ve diğerleri gibi). HiperWaves Coin’in amacı basittir: BlockZinciri, Strateji, Eğitim. Bu “HiperWaves Coin” asıl amacı eğitim araçları ile blokzinciri’ni stratejik önemini ve uygulamalarını geniş kitlelere öğretmektir. Blokzinciri bir bilim insanı ve eğitimci açısından değerlendirmektir.
 
+
 Specifications: Özellikler
 
 Waves Name (Adı): HiperWaves Coin
@@ -35,6 +36,7 @@ Waves Initial: 12 May 2018
 
 HiperWaves Coin Official Websites:
 
+
 http://hiperteknoloji.org (Official website)
 
 http://hiperteknoloji.org/2018/05/13/hiperwaves
@@ -43,6 +45,7 @@ http://mehmetkececi.com (Official)
  
 
 HiperWaves Coin Official Social Links/Websites:
+
 
 https://twitter.com/hiperwaves (official, live)
 
@@ -64,6 +67,7 @@ https://www.linkedin.com/in/hiperwaves/
 
 Other Links: Diğer Linkler
 
+
 https://paper.li/enfonomi/1523457355#/
 
 https://paper.li/enfonomi/1523485208#/
@@ -72,13 +76,12 @@ https://paper.li/mkececi/1487423753#/
 
 https://paper.li/mkecheci/1506593771#/
 
+
 Whitepaper:
 
 http://hiperteknoloji.org/ht/ (official)
 
 
 HiperWaves Coin
-
-#HiperWaves #HiWC #Cryptocurrency #BlockChain #Kriptopara #Blokzinciri #Wavesplatform #Coin #Token
 
 #HiperWaves #HiWC #HiperW #HiperWCoin #Cryptocurrency #BlockChain #Kriptopara #Blokzinciri #HiperWavesplatform #Coin #Token #Hiperteknoloji #HiperBlockChain #HiperBlokZinciri

@@ -1,4 +1,5 @@
 HiperWaves Coin
+
 HiWC
 
 [ANN]
@@ -19,6 +20,7 @@ HiperWaves Coin nedir? HiperWaves Coin bir dijital varlıktır (kriptopara ve di
 
 
 Specifications: Özellikler
+
 
 Waves Name (Adı): HiperWaves Coin
 

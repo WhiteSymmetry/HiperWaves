@@ -1,0 +1,2 @@
+# HiperWaves
+HiperWaves Coin

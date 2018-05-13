@@ -36,31 +36,46 @@ Waves Initial: 12 May 2018
 HiperWaves Coin Official Websites:
 
 http://hiperteknoloji.org (Official website)
+
 http://hiperteknoloji.org/2018/05/13/hiperwaves
+
 http://mehmetkececi.com (Official)
  
 
 HiperWaves Coin Official Social Links/Websites:
 
 https://twitter.com/hiperwaves (official, live)
+
 https://wavestalk.org/crypto-scene/(ann)-hiperwaves-coin (official)
+
 https://www.facebook.com/HiWCoin
+
 https://www.reddit.com/user/HiperWaves
+
 https://medium.com/@hiperwavescoin
+
 t.me/HiWaves
+
 https://plus.google.com/u/0/112116036570922024207
+
 https://www.linkedin.com/in/hiperwaves/
+
  
 
 Other Links: Diğer Linkler
 
 https://paper.li/enfonomi/1523457355#/
+
 https://paper.li/enfonomi/1523485208#/
+
 https://paper.li/mkececi/1487423753#/
+
 https://paper.li/mkecheci/1506593771#/
+
 Whitepaper:
 
 http://hiperteknoloji.org/ht/ (official)
+
 
 HiperWaves Coin
 

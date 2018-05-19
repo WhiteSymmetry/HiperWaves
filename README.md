@@ -26,7 +26,7 @@ Waves Name (Adı): HiperWaves Coin
 
 Waves Ticker, Symbol (Sembolü): HiperWaves, HiWC, HPRWC, HiperW Coin
 
-Waves Algorithm: PoS
+Waves Algorithm: PoS (Power of Stake)
 
 Waves Contract Address: Asset ID: 26nBwhPGwD4cjsa6CB4Htun4E8c6LxQeR9oS9WYfR55z
 

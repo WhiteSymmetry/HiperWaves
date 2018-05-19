@@ -43,7 +43,7 @@ http://hiperteknoloji.org (Official website)
 
 http://hiperteknoloji.org/2018/05/13/hiperwaves
 
-http://mehmetkececi.com (Official)
+http://mehmetkececi.com/blog/2018/05/16/hiperwaves/ (Official)
  
 
 HiperWaves Coin Official Social Links/Websites:
@@ -65,10 +65,15 @@ https://plus.google.com/u/0/112116036570922024207
 
 https://www.linkedin.com/in/hiperwaves/
 
+https://github.com/HiperWavesCoin/HiperWaves
+
  
 
 Other Links: Diğer Linkler
 
+https://medium.com/@hiperwavescoin/hiperwaves-coin-ebad15032c4b
+
+https://medium.com/@mkececi/hiperwaves-coin-fd03ca968f57
 
 https://paper.li/enfonomi/1523457355#/
 

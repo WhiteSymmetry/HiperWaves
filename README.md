@@ -64,7 +64,7 @@ t.me/HiWaves
 
 https://plus.google.com/u/0/112116036570922024207
 
-https://www.linkedin.com/in/hiperwaves/
+https://www.linkedin.com/in/hiperwaves
 
 https://github.com/HiperWavesCoin/HiperWaves
 
